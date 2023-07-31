@@ -19,3 +19,8 @@
 
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=maojiu-bb" /> </div>
+
+
+![](https://count.getloli.com/get/@maojiu-bb.github.readme)
+
+<div align="center">If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use. </div>
