@@ -12,7 +12,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=maojiu-bb&label=Profile%20views&color=0e75b6&style=flat" alt="maojiu-bb" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maojiu-bb" alt="maojiu-bb" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maojiu-bb&row=3&column=3" alt="maojiu-bb" /></a> </p>
 
 <h3 align="center"> Blogs poster</h3>
 
