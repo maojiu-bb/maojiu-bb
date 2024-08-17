@@ -8,11 +8,15 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm MaoJiu </h1>
-<h3 align="center">一个自由的程序员</h3>
+<h3 align="center">A full stack developer.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=maojiu-bb&label=Profile%20views&color=0e75b6&style=flat" alt="maojiu-bb" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maojiu-bb&row=3&column=3" alt="maojiu-bb" /></a> </p>
+
+![GitHub Snake Light](github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 
 <h3 align="center"> Blogs poster</h3>
 
