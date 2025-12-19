@@ -9,13 +9,9 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maojiu-bb.maojiu-bb" alt="visitors" />
 </p>
 
-### 🔥 GitHub Stats
-
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maojiu-bb&layout=compact&theme=tokyonight&langs_count=10&count_private=true&cache_seconds=7200"/>
 </p>
-
-### 📊 Contribution Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maojiu-bb&theme=tokyonight&hide_border=true" alt="streak stats"/>
@@ -33,8 +29,14 @@
   <img src="https://skillicons.dev/icons?i=git,nodejs,mongodb,mysql,java,spring" />
 </p>
 
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=maojiu-bb&show_icons=true&locale=en" alt="maojiu-bb" /></p>
+
 ![GitHub Snake Light](github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@maojiu-bb.github.readme" />
+</p>
 
 <p align="center">
   Thanks for visiting! ⭐ Star this repo if you like it 😄
