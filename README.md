@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=0E75B6&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+MaoJiu!;Flutter+%26+SwiftUI+Developer+%F0%9F%93%B1;Frontend+Lover+(React+%7C+Vue+%7C+Tailwind)%F0%9F%92%BB;Building+Beautiful+Apps+%E2%9A%A1" alt="Typing SVG" />
 </p>
 
-<h3 align="center">🚀 Flutter & SwiftUI & Frontend Developer</h3>
+<h3 align="center">🚀 Flutter Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=maojiu-bb&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
