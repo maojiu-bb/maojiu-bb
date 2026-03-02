@@ -9,15 +9,15 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maojiu-bb.maojiu-bb" alt="visitors" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maojiu-bb&layout=compact&theme=tokyonight&langs_count=10&count_private=true&cache_seconds=7200"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maojiu-bb&theme=tokyonight&hide_border=true" alt="streak stats"/>
 </p>
 
-<h3 align="center">🛠️ Core Skills: Flutter / SwiftUI / Frontend</h3>
+<!-- <h3 align="center">🛠️ Core Skills: Flutter / SwiftUI / Frontend</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,swift,apple,react,vuejs,tailwind,js,ts,figma" height="60" />
@@ -27,9 +27,9 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,nodejs,mongodb,mysql,java,spring" />
-</p>
+</p> -->
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=maojiu-bb&show_icons=true&locale=en" alt="maojiu-bb" /></p>
+<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=maojiu-bb&show_icons=true&locale=en" alt="maojiu-bb" /></p> -->
 
 ![GitHub Snake Light](github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
