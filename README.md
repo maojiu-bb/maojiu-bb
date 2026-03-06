@@ -4,10 +4,10 @@
 
 <h3 align="center">🚀 Flutter Developer</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=maojiu-bb&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maojiu-bb.maojiu-bb" alt="visitors" />
-</p>
+</p> -->
 
 <!-- <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maojiu-bb&layout=compact&theme=tokyonight&langs_count=10&count_private=true&cache_seconds=7200"/>
