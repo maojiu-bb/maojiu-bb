@@ -4,32 +4,17 @@
 
 <h3 align="center">🚀 Flutter Developer</h3>
 
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maojiu-bb&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maojiu-bb.maojiu-bb" alt="visitors" />
-</p> -->
-
-<!-- <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maojiu-bb&layout=compact&theme=tokyonight&langs_count=10&count_private=true&cache_seconds=7200"/>
-</p> -->
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maojiu-bb&theme=tokyonight&hide_border=true" alt="streak stats"/>
 </p>
 
-<!-- <h3 align="center">🛠️ Core Skills: Flutter / SwiftUI / Frontend</h3>
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=maojiu-bb&theme=tokyonight&no-frame=true&no-bg=true&column=6&row=2" />
+</div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,swift,apple,react,vuejs,tailwind,js,ts,figma" height="60" />
-</p>
-
-<h3 align="center">Other Languages and Tools</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,nodejs,mongodb,mysql,java,spring" />
-</p> -->
-
-<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=maojiu-bb&show_icons=true&locale=en" alt="maojiu-bb" /></p> -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maojiu-bb&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true" />
+</div>
 
 ![GitHub Snake Light](github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
