@@ -5,6 +5,10 @@
 <h3 align="center">🚀 Flutter & iOS Developer</h3>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maojiu-bb&layout=compact&hide=html" alt="maojiu-bb" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maojiu-bb&theme=tokyonight&hide_border=true" alt="streak stats"/>
 </p>
 
